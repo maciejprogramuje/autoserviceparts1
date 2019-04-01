@@ -78,6 +78,7 @@ public with sharing class Auto_PartCard {
             insert newOrder;
         } else {
             newOrder = orders.get(0);
+
         }
 
         OrderItem newProduct = new OrderItem();
