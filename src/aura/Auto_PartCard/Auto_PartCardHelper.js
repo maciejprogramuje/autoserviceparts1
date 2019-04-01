@@ -18,6 +18,7 @@
         $A.enqueueAction(action1);
 
 
+
         let action2 = component.get('c.searchPricebookEntriesDetails');
         action2.setParam("id", id);
         action2.setCallback(this, function(response) {

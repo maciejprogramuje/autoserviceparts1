@@ -20,6 +20,7 @@
 .THIS .slds-carousel__content{
     display: none;
 }
+
 .THIS .slds-carousel__indicator-action.slds-is-active{
     background-color: rgba(255, 100, 100, 0.9);
     border-color: rgba(255, 100, 100, 0.9);

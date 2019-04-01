@@ -108,4 +108,5 @@ public with sharing class Auto_PartCard {
 
         return csItem.Value__c;
     }
+
 }

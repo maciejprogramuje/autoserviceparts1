@@ -7,4 +7,5 @@
         helper.addToBasket(component, event);
     },
 
+
 })
