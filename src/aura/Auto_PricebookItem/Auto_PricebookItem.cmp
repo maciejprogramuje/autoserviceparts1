@@ -17,6 +17,7 @@
                   action="{!c.init}"/>
 
     <lightning:card class="slds-card my-style-card">
+
         <div class="slds-grid slds-m-around--small">
             <div class="slds-col slds-size--4-of-12">
                 {!v.product.Name}
